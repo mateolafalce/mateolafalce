@@ -2,7 +2,7 @@
 ## _Web 3 Blockchain developer_
 
 - Solana programs and security ⚓
-- Rust and Typescript development 🦀
+- Rust development 🦀
 - React ⚛️ 
 
 ### Study 👨🏻‍💻
