@@ -3,7 +3,7 @@
 
 - Solana programs and security ⚓
 - Rust development 🦀
-- React ⚛️ 
+- Rocket.rs 🚀
 
 ### Study 👨🏻‍💻
 I am studying systems engineering at the Argentine National Technological University
