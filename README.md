@@ -13,7 +13,3 @@
 - <a href="https://mateolafalce.github.io/2025/TOON%20vs.%20JSON_%20A%20Mathematical%20Evaluation%20of%20Byte%20Efficiency%20in%20Structured%20Data/TOONvs.JSONAMathematicalEvaluationofByteEffic.html" target="_blank" rel="noopener noreferrer">TOON vs. JSON: A Mathematical Evaluation of Byte Efficiency in Structured Data</a>
 - <a href="https://mateolafalce.github.io/2025/Enforcing%20Mutual%20Cooperation%20Through%20Automation:%20The%20GitHub%20Follower%20System/EnforcingMutualCooperationThroughAutomationTh.html" target="_blank" rel="noopener noreferrer">Enforcing Mutual Cooperation Through Automation: The GitHub Follower System</a>
 - <a href="https://mateolafalce.github.io/2025/Mathematically%20Formalizing%20the%20TOON%20Efficiency%20Revolution%20versus%20JSON/Mathematically%20Formalizing%20the%20TOON%20Efficiency%20Revolution%20versus%20JSON.html" target="_blank" rel="noopener noreferrer">Mathematically Formalizing the TOON Efficiency Revolution versus JSON</a>
-
-### Latest Articles
-- 19/12/2025: [I                         Cloned Myself with a Markov Chain](https://mateolafalce.github.io/2025/I Cloned Myself with a Markov Chain/IClonedMyselfwithaMarkovChain.html)
-- 19/11/2025: [Enforcing                         Mutual Cooperation Through Automation: The GitHub Follower System](https://mateolafalce.github.io/2025/Enforcing Mutual Cooperation Through Automation: The GitHub Follower System/EnforcingMutualCooperationThroughAutomationTh.html)
