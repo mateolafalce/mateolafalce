@@ -8,8 +8,8 @@
 
 ## Recent blog posts
 
+- <a href="https://mateolafalce.github.io/2026/The%20Boundaries%20of%20Scaling%20LLMs/TheBoundariesofScalingLLMs.html" target="_blank" rel="noopener noreferrer">The                                 Boundaries of Scaling LLMs</a>
 - <a href="https://mateolafalce.github.io/2026/Attention%20Versus%20Max%20Pooling/AttentionVersusMaxPooling.html" target="_blank" rel="noopener noreferrer">Attention                                 Versus Max Pooling</a>
 - <a href="https://mateolafalce.github.io/2026/The%20Architectural%20Conflict%20Between%20Attention%20Mechanisms%20and%20Max%20Pooling/TheArchitecturalConflictBetweenAttentionMecha.html" target="_blank" rel="noopener noreferrer">The                                 Architectural Conflict Between Attention Mechanisms and Max Pooling</a>
 - <a href="https://mateolafalce.github.io/2026/The%20Art%20of%20Focus/TheArtofFocus.html" target="_blank" rel="noopener noreferrer">The                                 Art of Focus</a>
 - <a href="https://mateolafalce.github.io/2026/Signal%20Over%20Silence_%20The%20Logic%20Behind%20Max%20Pooling/SignalOverSilenceTheLogicBehindMaxPooling.html" target="_blank" rel="noopener noreferrer">Signal                                 Over Silence: The Logic Behind Max Pooling</a>
-- <a href="https://mateolafalce.github.io/2026/Understanding%20Max%20Pooling/UnderstandingMaxPooling.html" target="_blank" rel="noopener noreferrer">Understanding                                 Max Pooling</a>
