@@ -8,8 +8,8 @@
 
 ## Recent blog posts
 
+- <a href="https://mateolafalce.github.io/2026/AI-First%20OS/index.html" target="_blank" rel="noopener noreferrer">AI-First OS Concept</a>
 - <a href="https://mateolafalce.github.io/2026/I%20Cut%20Vercel's%20json-render%20LLM%20Costs%20by%2089%25%20Using%20TOON/ICutVercelsjsonrenderLLMCostsby89UsingTOON.html" target="_blank" rel="noopener noreferrer">Optimizing                                 json-render: 89% Cost Reduction with TOON</a>
 - <a href="https://mateolafalce.github.io/2026/The%20Boundaries%20of%20Scaling%20LLMs/TheBoundariesofScalingLLMs.html" target="_blank" rel="noopener noreferrer">The                                 Boundaries of Scaling LLMs</a>
 - <a href="https://mateolafalce.github.io/2026/Attention%20Versus%20Max%20Pooling/AttentionVersusMaxPooling.html" target="_blank" rel="noopener noreferrer">Attention                                 Versus Max Pooling</a>
 - <a href="https://mateolafalce.github.io/2026/The%20Architectural%20Conflict%20Between%20Attention%20Mechanisms%20and%20Max%20Pooling/TheArchitecturalConflictBetweenAttentionMecha.html" target="_blank" rel="noopener noreferrer">The                                 Architectural Conflict Between Attention Mechanisms and Max Pooling</a>
-- <a href="https://mateolafalce.github.io/2026/The%20Art%20of%20Focus/TheArtofFocus.html" target="_blank" rel="noopener noreferrer">The                                 Art of Focus</a>
