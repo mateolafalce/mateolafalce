@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://lafalcemateo.duckdns.org/" target="_blank" rel="noopener noreferrer">Website</a> • <a href="https://x.com/lafalcemateo" target="_blank" rel="noopener noreferrer">Twitter</a> • <a href="https://github.com/mateolafalce/mateolafalce/blob/main/mateo%20lafalce_0x1ED831F4_public.asc" target="_blank" rel="noopener noreferrer">Contact</a>
+<a href="https://mateolafalce.github.io/" target="_blank" rel="noopener noreferrer">Website</a> • <a href="https://x.com/lafalcemateo" target="_blank" rel="noopener noreferrer">Twitter</a> • <a href="https://github.com/mateolafalce/mateolafalce/blob/main/mateo%20lafalce_0x1ED831F4_public.asc" target="_blank" rel="noopener noreferrer">Contact</a>
   
 </div>
 
