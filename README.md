@@ -1,6 +1,14 @@
 <div align="center">
 
-<a href="https://x.com/lafalcemateo" target="_blank" rel="noopener noreferrer">Twitter</a> • <a href="https://github.com/mateolafalce/mateolafalce/blob/main/mateo%20lafalce_0x1ED831F4_public.asc" target="_blank" rel="noopener noreferrer">Contact</a>
-  
+<a href="https://x.com/lafalcemateo" target="_blank" rel="noopener noreferrer">X</a> • <a href="https://github.com/mateolafalce/mateolafalce/blob/main/mateo%20lafalce_0x1ED831F4_public.asc" target="_blank" rel="noopener noreferrer">Contact</a>
+
+<br><br>
+
+<img src="https://infoniews.duckdns.org/random" alt="Linux Rice Wallpaper" width="600">
+
+<br><br>
+
+<a href="https://infoniews.duckdns.org/" target="_blank" rel="noopener noreferrer">Check out my awesome linux rice wallpapers</a>
+
 </div>
 
