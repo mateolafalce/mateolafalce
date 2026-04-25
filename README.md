@@ -6,7 +6,7 @@
 
 <img src="https://infoniews.duckdns.org/random" alt="Linux Rice Wallpaper" width="600">
 
-<i>Check out my awesome linux rice <a href="https://infoniews.duckdns.org/" target="_blank" rel="noopener noreferrer">wallpapers</a></i>
+<i>Check out my awesome linux rice <a href="https://github.com/mateolafalce/wallpapers-linux-rice" target="_blank" rel="noopener noreferrer">wallpapers</a></i>
 
 </div>
 
