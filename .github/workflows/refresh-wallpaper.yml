@@ -1,0 +1,27 @@
+name: Refresh wallpaper cache
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # cada hora
+  workflow_dispatch:        # también manual desde la UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bump cache-bust timestamp in README
+        run: |
+          TS=$(date +%s)
+          sed -i "s|infoniews\.duckdns\.org/random[^\"]*|infoniews.duckdns.org/random?v=$TS|g" README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: refresh wallpaper [skip ci]"
+          git push
