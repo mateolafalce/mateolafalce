@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://infoniews.duckdns.org/random?v=1777228615" alt="Linux Rice Wallpaper" width="400">
+<img src="https://infoniews.duckdns.org/random?v=1777232340" alt="Linux Rice Wallpaper" width="400">
 
 <i>Check out my awesome linux rice <a href="https://github.com/mateolafalce/wallpapers-linux-rice" target="_blank" rel="noopener noreferrer">wallpapers</a></i>
 
